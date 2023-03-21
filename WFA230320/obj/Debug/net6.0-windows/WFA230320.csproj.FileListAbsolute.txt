@@ -1,0 +1,17 @@
+C:\Users\dajka.mate\Source\Repos\WFA230320\bin\Debug\net6.0-windows\WFA230320.exe
+C:\Users\dajka.mate\Source\Repos\WFA230320\bin\Debug\net6.0-windows\WFA230320.deps.json
+C:\Users\dajka.mate\Source\Repos\WFA230320\bin\Debug\net6.0-windows\WFA230320.runtimeconfig.json
+C:\Users\dajka.mate\Source\Repos\WFA230320\bin\Debug\net6.0-windows\WFA230320.dll
+C:\Users\dajka.mate\Source\Repos\WFA230320\bin\Debug\net6.0-windows\WFA230320.pdb
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.csproj.AssemblyReference.cache
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.FrmMain.resources
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.csproj.GenerateResource.cache
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.AssemblyInfoInputs.cache
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.AssemblyInfo.cs
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.csproj.CoreCompileInputs.cache
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.dll
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\refint\WFA230320.dll
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.pdb
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\WFA230320.genruntimeconfig.cache
+C:\Users\dajka.mate\Source\Repos\WFA230320\obj\Debug\net6.0-windows\ref\WFA230320.dll
